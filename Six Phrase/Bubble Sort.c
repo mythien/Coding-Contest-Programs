@@ -29,7 +29,7 @@ int main()
             i++;
             j++;
         }
-        n--;                          //we doesn't need to check the bubbled elements. They are already sorted.
+        n--;                          //we don't need to check the bubbled elements. They are already sorted.
         if(swapped == 0)
             break;
     }
